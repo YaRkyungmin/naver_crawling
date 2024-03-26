@@ -29,7 +29,7 @@ jobs:
             - name: Commit file
               run: |
                   git config --global user.name 'YaRkyungmin'
-                  git config --global user.email 'YaRkyungmin@github.com'
+                  git config --global user.email 'kkgm94@naver.com'
                   git add naver.txt
                   git commit -m "Add naver.txt"
             - name: Push
